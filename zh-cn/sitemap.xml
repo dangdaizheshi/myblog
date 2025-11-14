@@ -15,14 +15,8 @@
                 href="https://dangdaizheshi.github.io/myblog/"
                 />
   </url><url>
-    <loc>https://dangdaizheshi.github.io/myblog/p/mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
-  </url><url>
-    <loc>https://dangdaizheshi.github.io/myblog/post/</loc>
-    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
-  </url><url>
     <loc>https://dangdaizheshi.github.io/myblog/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,6 +27,43 @@
                 hreflang="zh-cn"
                 href="https://dangdaizheshi.github.io/myblog/categories/"
                 />
+  </url><url>
+    <loc>https://dangdaizheshi.github.io/myblog/tags/mysql/</loc>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dangdaizheshi.github.io/myblog/categories/mysql/</loc>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dangdaizheshi.github.io/myblog/p/mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dangdaizheshi.github.io/myblog/post/</loc>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dangdaizheshi.github.io/myblog/tags/sql/</loc>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dangdaizheshi.github.io/myblog/categories/sql/</loc>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dangdaizheshi.github.io/myblog/tags/</loc>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dangdaizheshi.github.io/myblog/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://dangdaizheshi.github.io/myblog/tags/"
+                />
+  </url><url>
+    <loc>https://dangdaizheshi.github.io/myblog/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dangdaizheshi.github.io/myblog/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2025-11-14T14:10:49+08:00</lastmod>
   </url><url>
     <loc>https://dangdaizheshi.github.io/myblog/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -63,19 +94,6 @@
   </url><url>
     <loc>https://dangdaizheshi.github.io/myblog/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dangdaizheshi.github.io/myblog/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dangdaizheshi.github.io/myblog/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://dangdaizheshi.github.io/myblog/tags/"
-                />
   </url><url>
     <loc>https://dangdaizheshi.github.io/myblog/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
