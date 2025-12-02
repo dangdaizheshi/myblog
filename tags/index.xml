@@ -7,7 +7,31 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>当代哲师</copyright>
-        <lastBuildDate>Sun, 16 Nov 2025 20:30:49 +0800</lastBuildDate><atom:link href="https://dangdaizheshi.github.io/myblog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 02 Dec 2025 13:10:22 +0800</lastBuildDate><atom:link href="https://dangdaizheshi.github.io/myblog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Api</title>
+        <link>https://dangdaizheshi.github.io/myblog/tags/api/</link>
+        <pubDate>Tue, 02 Dec 2025 13:10:22 +0800</pubDate>
+        
+        <guid>https://dangdaizheshi.github.io/myblog/tags/api/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Python</title>
+        <link>https://dangdaizheshi.github.io/myblog/tags/python/</link>
+        <pubDate>Tue, 02 Dec 2025 13:10:22 +0800</pubDate>
+        
+        <guid>https://dangdaizheshi.github.io/myblog/tags/python/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>后端开发</title>
+        <link>https://dangdaizheshi.github.io/myblog/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</link>
+        <pubDate>Tue, 02 Dec 2025 13:10:22 +0800</pubDate>
+        
+        <guid>https://dangdaizheshi.github.io/myblog/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>C&#43;&#43;</title>
         <link>https://dangdaizheshi.github.io/myblog/tags/c&#43;&#43;/</link>
         <pubDate>Sun, 16 Nov 2025 20:30:49 +0800</pubDate>
@@ -37,14 +61,6 @@
         <pubDate>Fri, 14 Nov 2025 14:10:49 +0800</pubDate>
         
         <guid>https://dangdaizheshi.github.io/myblog/tags/sql/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>后端开发</title>
-        <link>https://dangdaizheshi.github.io/myblog/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</link>
-        <pubDate>Fri, 14 Nov 2025 14:10:49 +0800</pubDate>
-        
-        <guid>https://dangdaizheshi.github.io/myblog/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</guid>
         <description></description>
         </item>
         <item>
