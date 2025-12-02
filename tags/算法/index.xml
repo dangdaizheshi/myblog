@@ -13,7 +13,7 @@
         <pubDate>Sun, 16 Nov 2025 20:30:49 +0800</pubDate>
         
         <guid>https://dangdaizheshi.github.io/myblog/p/%E4%B8%80%E4%BA%9B%E7%BB%8F%E5%B8%B8%E5%BF%98%E8%AE%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/</guid>
-        <description>&lt;img src="https://dangdaizheshi.github.io/myblog/p/%E4%B8%80%E4%BA%9B%E7%BB%8F%E5%B8%B8%E5%BF%98%E8%AE%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post 一些经常忘记的东西" /&gt;&lt;h2 id=&#34;欧拉定理&#34;&gt;欧拉定理：
+        <description>&lt;img src="https://dangdaizheshi.github.io/myblog/p/%E4%B8%80%E4%BA%9B%E7%BB%8F%E5%B8%B8%E5%BF%98%E8%AE%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/01.png" alt="Featured image of post 一些经常忘记的东西" /&gt;&lt;h2 id=&#34;欧拉定理&#34;&gt;欧拉定理：
 &lt;/h2&gt;&lt;p&gt;欧拉定理：当 $a$ 与 $mod$ 互质时，a ^ phi(mod) % mod = 1&lt;/p&gt;
 &lt;p&gt;扩展欧拉定理：无论 $a$ 与 $mod$ 是否互质，a ^ b % mod = a ^ (b % phi(mod) +phi(mod)) % mod&lt;/p&gt;
 &lt;p&gt;印象深刻的一道题 ：&lt;/p&gt;
